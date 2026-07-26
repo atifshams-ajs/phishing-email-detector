@@ -405,3 +405,21 @@ while True:
     print("")
     print("=" * 45)
     print("")
+
+    # Save result to log file
+    import datetime
+    log_entry = (
+        "\n============================\n"
+        "Date: " + str(datetime.datetime.now().strftime("%d/%m/%Y %H:%M")) + "\n"
+        "Score: " + str(score) + "\n"
+        "Risk Level: " + risk_level + "\n"
+        "Indicators: " + str(len(triggered)) + "\n"
+    )
+    for item in triggered:
+        log_entry += "  - " + item + "\n"
+
+    with open("results.txt", "a") as f:
+        f.write(log_entry)
+
+    print("Result saved to results.txt")
+    print("")

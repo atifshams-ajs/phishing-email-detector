@@ -1,0 +1,14 @@
+
+============================
+Date: 26/07/2026 20:37
+Score: 18
+Risk Level: HIGH RISK
+Indicators: 8
+  - Rule 1 — Urgency language detected: 'immediately'
+  - Rule 2 — Threatening consequences detected: 'account will be closed'
+  - Rule 4 — Generic greeting detected: 'dear customer'
+  - Rule 11 — URL shortener detected: 'bit.ly'
+  - Rule 12 — Brand impersonation detected: 'paypal'
+  - Rule 13 — OTP or verification code request detected: 'otp'
+  - Rule 14 — Threatening deadline detected: 'today only'
+  - Rule 15 — Confidentiality request detected: 'do not share'
