@@ -12,3 +12,180 @@ Indicators: 8
   - Rule 13 — OTP or verification code request detected: 'otp'
   - Rule 14 — Threatening deadline detected: 'today only'
   - Rule 15 — Confidentiality request detected: 'do not share'
+
+============================
+Date: 26/07/2026 20:41
+Score: 10
+Risk Level: HIGH RISK
+Indicators: 4
+  - Rule 3 — Sensitive information request detected: 'bank details'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 6 — Reward or prize pressure detected: 'claim your prize'
+  - Rule 14 — Threatening deadline detected: 'expires tonight'
+
+============================
+Date: 26/07/2026 20:44
+Score: 17
+Risk Level: HIGH RISK
+Indicators: 7
+  - Rule 1 — Urgency language detected: 'immediately'
+  - Rule 2 — Threatening consequences detected: 'will be terminated'
+  - Rule 3 — Sensitive information request detected: 'password'
+  - Rule 4 — Generic greeting detected: 'dear user'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 10 — High urgency security alert detected: 'urgent action required'
+  - Rule 12 — Brand impersonation detected: 'microsoft'
+
+============================
+Date: 26/07/2026 20:46
+Score: 15
+Risk Level: HIGH RISK
+Indicators: 6
+  - Rule 1 — Urgency language detected: 'immediately'
+  - Rule 2 — Threatening consequences detected: 'account will be closed'
+  - Rule 3 — Sensitive information request detected: 'credit card'
+  - Rule 4 — Generic greeting detected: 'dear customer'
+  - Rule 5 — Suspicious link detected: 'click the link below'
+  - Rule 12 — Brand impersonation detected: 'netflix'
+
+============================
+Date: 26/07/2026 20:47
+Score: 12
+Risk Level: HIGH RISK
+Indicators: 5
+  - Rule 1 — Urgency language detected: 'within 24 hours'
+  - Rule 3 — Sensitive information request detected: 'card number'
+  - Rule 4 — Generic greeting detected: 'dear customer'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 12 — Brand impersonation detected: 'dhl'
+
+============================
+Date: 26/07/2026 20:47
+Score: 17
+Risk Level: HIGH RISK
+Indicators: 7
+  - Rule 1 — Urgency language detected: 'immediately'
+  - Rule 2 — Threatening consequences detected: 'failure to comply'
+  - Rule 3 — Sensitive information request detected: 'password'
+  - Rule 4 — Generic greeting detected: 'dear account holder'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 10 — High urgency security alert detected: 'your account has been compromised'
+  - Rule 12 — Brand impersonation detected: 'amazon'
+
+============================
+Date: 26/07/2026 20:48
+Score: 12
+Risk Level: HIGH RISK
+Indicators: 5
+  - Rule 3 — Sensitive information request detected: 'account number'
+  - Rule 4 — Generic greeting detected: 'dear valued customer'
+  - Rule 12 — Brand impersonation detected: 'barclays'
+  - Rule 13 — OTP or verification code request detected: 'verification code'
+  - Rule 15 — Confidentiality request detected: 'do not share'
+
+============================
+Date: 26/07/2026 20:49
+Score: 0
+Risk Level: LOW RISK
+Indicators: 0
+
+============================
+Date: 26/07/2026 20:49
+Score: 0
+Risk Level: LOW RISK
+Indicators: 0
+
+============================
+Date: 26/07/2026 20:50
+Score: 0
+Risk Level: LOW RISK
+Indicators: 0
+
+============================
+Date: 26/07/2026 20:50
+Score: 0
+Risk Level: LOW RISK
+Indicators: 0
+
+============================
+Date: 26/07/2026 20:51
+Score: 0
+Risk Level: LOW RISK
+Indicators: 0
+
+============================
+Date: 26/07/2026 20:52
+Score: 16
+Risk Level: HIGH RISK
+Indicators: 7
+  - Rule 1 — Urgency language detected: 'immediately'
+  - Rule 3 — Sensitive information request detected: 'verify your details'
+  - Rule 4 — Generic greeting detected: 'dear customer'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 10 — High urgency security alert detected: 'suspicious activity'
+  - Rule 12 — Brand impersonation detected: 'apple'
+  - Rule 15 — Confidentiality request detected: 'do not share'
+
+============================
+Date: 26/07/2026 20:52
+Score: 11
+Risk Level: HIGH RISK
+Indicators: 5
+  - Rule 3 — Sensitive information request detected: 'bank details'
+  - Rule 4 — Generic greeting detected: 'dear account holder'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 6 — Reward or prize pressure detected: 'claim now'
+  - Rule 14 — Threatening deadline detected: 'expires tonight'
+
+============================
+Date: 26/07/2026 20:53
+Score: 14
+Risk Level: HIGH RISK
+Indicators: 6
+  - Rule 1 — Urgency language detected: 'immediately'
+  - Rule 3 — Sensitive information request detected: 'password'
+  - Rule 4 — Generic greeting detected: 'dear user'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 13 — OTP or verification code request detected: 'verification code'
+  - Rule 14 — Threatening deadline detected: 'final warning'
+
+============================
+Date: 26/07/2026 20:54
+Score: 19
+Risk Level: HIGH RISK
+Indicators: 8
+  - Rule 1 — Urgency language detected: 'immediately'
+  - Rule 3 — Sensitive information request detected: 'password'
+  - Rule 4 — Generic greeting detected: 'dear user'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 10 — High urgency security alert detected: 'urgent action required'
+  - Rule 12 — Brand impersonation detected: 'google'
+  - Rule 13 — OTP or verification code request detected: 'verification code'
+  - Rule 14 — Threatening deadline detected: 'respond today'
+
+============================
+Date: 26/07/2026 20:54
+Score: 14
+Risk Level: HIGH RISK
+Indicators: 6
+  - Rule 1 — Urgency language detected: 'within 24 hours'
+  - Rule 3 — Sensitive information request detected: 'credit card'
+  - Rule 4 — Generic greeting detected: 'dear customer'
+  - Rule 5 — Suspicious link detected: 'click here'
+  - Rule 12 — Brand impersonation detected: 'fedex'
+  - Rule 14 — Threatening deadline detected: 'final notice'
+
+============================
+Date: 26/07/2026 20:57
+Score: 3
+Risk Level: LOW RISK
+Indicators: 1
+  - Rule 5 — Suspicious link detected: 'click the link below'
+
+============================
+Date: 26/07/2026 20:58
+Score: 4
+Risk Level: MEDIUM RISK
+Indicators: 2
+  - Rule 4 — Generic greeting detected: 'dear customer'
+  - Rule 5 — Suspicious link detected: 'click here'
